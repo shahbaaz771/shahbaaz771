@@ -1,10 +1,12 @@
 Hi 👋 My name is Shahbaaz Ahmed Sadiq
 =====================================
 
-Computer Science and Engineering Student
+Computer Science and Engineering Graduate
 ----------------------------------------
 
-I am currently pursuing my Final Year of BTech in Computer Science and Engineering.
+An ambitious Computer Science and Engineering graduate with a passion for Data Science and Machine Learning. 
+I am passionate about Data Science and looking for an opportunity to exploit my current skills and become a 
+prominent Data Scientist. 
 
 * 🌍  I'm based in Bangalore
 * ✉️  You can contact me at [zaabhahs@gmail.com](mailto:zaabhahs@gmail.com)
