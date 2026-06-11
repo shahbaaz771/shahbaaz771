@@ -1,7 +1,5 @@
 # Hi 👋 My name is Shahbaaz Ahmed Sadiq
 
----------------------------------------
-
 Data Analyst | Data Scientist | Business Intelligence Enthusiast
 
 ---------------------------------------
