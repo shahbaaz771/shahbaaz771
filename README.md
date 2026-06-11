@@ -6,7 +6,7 @@ Data Analyst | Data Scientist | Business Intelligence Enthusiast
 
 ---------------------------------------
 
-I'm a Data Analyst and Master's student in Data Science & Analytics at King Fahd University of Petroleum & Minerals (KFUPM), Saudi Arabia. I enjoy transforming data into actionable insights through analytics, visualization, forecasting, and machine learning.
+I'm a Data Analyst and M.S. candidate in Data Science & Analytics at King Fahd University of Petroleum & Minerals (KFUPM), Saudi Arabia. With a background in Computer Science & Engineering and hands-on experience in analytics, dashboard development, forecasting, and machine learning, I enjoy transforming data into actionable business insights.
 
 My interests include Business Intelligence, Data Analytics, Time Series Forecasting, Machine Learning, and AI-driven decision support systems. I enjoy building end-to-end analytical solutions using SQL, Python, Power BI, and modern machine learning frameworks.
 
